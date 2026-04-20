@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.vite/
+build/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+*.g.dart
+pubspec.lock
+.DS_Store
+Thumbs.db
